@@ -1,1 +1,9 @@
-﻿
+﻿  DartBoard.cpp
+  GameModes.cpp
+  Menus.cpp
+  Players.cpp
+  Source.cpp
+C:\Users\Martin\OneDrive - Abertay University\Year 1\C ++\Term 2\Assignment\Submitted stuff\CMP102-Darts\Darts Game\Darts Game\Darts Game\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Martin\OneDrive - Abertay University\Year 1\C ++\Term 2\Assignment\Submitted stuff\CMP102-Darts\Darts Game\Darts Game\Darts Game\Players.cpp(947): warning C4715: 'Players::validScore': not all control paths return a value
+  Darts Game.vcxproj -> C:\Users\Martin\OneDrive - Abertay University\Year 1\C ++\Term 2\Assignment\Submitted stuff\CMP102-Darts\Darts Game\Darts Game\Debug\Darts Game.exe
